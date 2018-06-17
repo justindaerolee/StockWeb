@@ -1,0 +1,73 @@
+label {
+	font-family: sans-serif;
+	display: inline;
+}
+
+.error_appear {
+	color: red;
+}
+
+.error_hide {
+	color: transparent;
+}
+
+.error_appear {
+	color: red;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.stock_appear {
+
+}
+
+.stock_hide {
+
+}
+
+.input-group {
+	width: 80%;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#inputGroupSelect01 {
+	height: 50px;
+}
+
+.input-group-text {
+	width: 150px;
+}
+
+#date-selector {
+	height: 50px;
+}
+
+#date_error {
+	text-align: center;
+}
+
+#date-selector {
+	width: 300px;
+}
+
+#button-div {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.card {
+	text-align: center;
+	margin-top: 50px;
+}
